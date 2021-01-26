@@ -11,6 +11,7 @@
   }
 }
 
+
 body {
   font-family: "Muli", sans-serif;
   font-weight: 300;
@@ -19,6 +20,11 @@ body {
 
 .full-screen {
   height: 100vh;
+}
+
+
+::-webkit-scrollbar {
+  width: 0;
 }
 
 main#main {
@@ -270,7 +276,7 @@ a, button {
 #overlayer {
   position: fixed;
   z-index: 9999;
-  background: #2C2D30;
+  background: #282A39;
   top: 0;
   left: 0;
   right: 0;
