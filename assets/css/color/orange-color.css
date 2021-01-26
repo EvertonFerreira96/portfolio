@@ -111,10 +111,12 @@ header .navbar-brand b,
 
 
 .arshia-dark .header nav a {
-  transition: font-size 1s ease-out, color 1s ease-out;
+/*transition: font-size 1s ease-out, color 1s ease-out; */
 }
 
 .arshia-dark .header nav a:hover {
+ /*
   color: #F67F75 !important;
   font-size: 19px;
+  */
 }
