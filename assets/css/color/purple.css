@@ -71,8 +71,7 @@ header .navbar-brand b,
 .portfolio .portfolio-icon a:first-child,
 .comments .comment-info a,
 .blog-content button:hover,
-.comments .comment-info a:hover,
-.social a:hover {
+.comments .comment-info a:hover {
   color: #FFf;
   background: -webkit-linear-gradient(#EE5690,#46489D);
 }
@@ -153,6 +152,15 @@ header .navbar-brand b,
 .arshia-dark .hero-social li a:hover {
   color: #f05852 !important;
 }
+
+.social a:hover {
+
+  color: #FFF !important;
+  font-size: 1.5rem;
+  background: none !important;
+  -webkit-text-fill-color: #FFF;
+}
+
 
 
 /*

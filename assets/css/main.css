@@ -552,16 +552,8 @@ a, button {
   transition: color 1s ease-in-out, font-size 1s ease;
 }
 
-.social a:hover {
 
-  color:#ff645E;
-  font-size: 1.5rem;
-}
-
-.social-box .follow-label span{
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.social-box .follow-label span {
   font-size: 17px;
 }
 
@@ -2820,9 +2812,8 @@ canvas.particles-js-canvas-el {
 .mono.arshia-dark .circle {
   background: #e1e1e1;
 }
-
-.mono.arshia-dark .follow-label::before {
-  background: #fafafa !important;
+.follow-label::before {
+  background: -webkit-linear-gradient(#EE5690,#46489D) !important;
 }
 
 /*-------------------------
@@ -3203,7 +3194,7 @@ canvas.particles-js-canvas-el {
   }
   
   .mono .follow-label::before {
-    background: #fafafa !important;
+    background: -webkit-linear-gradient(#EE5690,#46489D) !important;
   }
 
   .mono.flat-demo .pill-button {
