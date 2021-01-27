@@ -14,15 +14,24 @@
 }
 
 .base-color {
-  color: #ff645e !important;
+  color: #FF645E !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .hero-social li a:hover, .blog-link a:hover {
-  color: #f05852 !important;
+  color: #FF645E !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .bg-base-color {
-  background-color: #ff645e !important;
+  background-color: #FF645E !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .follow-label:before,
@@ -31,11 +40,14 @@
 .testimonial .testimonial-border,
 .blog-content:before,
 .blog .owl-dot.active span {
-  background: #ff645e;
-}
+  background: #FFF;
+ }
 
 .testimonial .owl-dot.active span {
-  background: #ff645e !important;
+  background: #FF645E !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .menu li a,
@@ -54,51 +66,76 @@ header .navbar-brand b,
 .blog-content button:hover,
 .comments .comment-info a:hover,
 .social a:hover {
-  color: #ff645e;
+  color: #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .loader {
-  border-top: 4px solid #ff645e !important;
+  border-top: 4px solid #FF645E !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .timeline-icon {
-  border: 1px solid #ff645e;
-  background-color: #ff645e;
+  border: 1px solid #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .portfolio .portfolio-item-content::before {
   background-color: rgba(255, 100, 94, 0.9);
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .menu-toggler span {
-  background-color: #ff645e;
+  background-color: #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .timeline-item:before {
-  border: 2px solid #ff645e;
+  border: 2px solid #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .timeline-item:before {
-  border: 1px solid #ff645e;
+  border: 1px solid #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .header nav .nav-pills a.active {
-  color: #ff645e !important;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .header nav a:hover {
-  color: #ff645e !important;
+  color: #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .testimonial .testimonial-item::before {
-  color: #ff645e;
+  color: #FF645E;
 }
 
 /*-------------------------
       Flat Demo
 -------------------------*/
 .flat-demo .button-border, .arshia-dark.flat-demo .button-border {
-  background-color: #ff645e;
+  background-color: #FF645E;
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
@@ -110,3 +147,11 @@ header .navbar-brand b,
 }
 
 
+/*
+
+  font-size: 72px;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+*/
