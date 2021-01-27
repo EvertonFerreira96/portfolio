@@ -14,24 +14,19 @@
 }
 
 .base-color {
-  color: #FF645E !important;
   background: -webkit-linear-gradient(#EE5690,#46489D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .hero-social li a:hover, .blog-link a:hover {
-  color: #FF645E !important;
   background: -webkit-linear-gradient(#EE5690,#46489D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .bg-base-color {
-  background-color: #FF645E !important;
   background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .follow-label:before,
@@ -73,7 +68,11 @@ header .navbar-brand b,
 .blog-content button:hover,
 .comments .comment-info a:hover {
   color: #FFf;
+  /*
   background: -webkit-linear-gradient(#EE5690,#46489D);
+  */
+  background: #46489D
+  ;
 }
 
 .loader {
@@ -122,6 +121,8 @@ header .navbar-brand b,
   background: -webkit-linear-gradient(#EE5690,#46489D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 18px;
+  line-height: 28px;
 }
 
 .header nav a:hover {
@@ -129,6 +130,8 @@ header .navbar-brand b,
   background: -webkit-linear-gradient(#EE5690,#46489D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 18px;
+  line-height: 28px;
 }
 
 .testimonial .testimonial-item::before {
@@ -146,7 +149,9 @@ header .navbar-brand b,
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
-  background-color: #f05852;
+  background-color: #A85095;
+  color: #FFF;
+  -webkit-text-fill-color: #FFF;
 }
 
 .arshia-dark .hero-social li a:hover {

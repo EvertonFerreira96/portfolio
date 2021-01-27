@@ -109,10 +109,6 @@ a, button {
   padding: 1px;
 }
 
-.button-border button {
-  background-color: transparent;
-}
-
 .pill-button {
   border-radius: 1rem;
   border: none;
