@@ -95,10 +95,8 @@ header .navbar-brand b,
 
 
 .loader {
-  border-top: 4px solid #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  border-top: 4px solid #EE5690 !important;
+
 }
 
 .timeline-icon {
