@@ -7,8 +7,14 @@ const routes = require('./src/routes');
 
 const server = express(); 
 
-server.use(express.static('./src/css'));
-server.use(express.static('./src/js'));
+
+
+server.use(express.static('./src/assets/css/color'));
+server.use(express.static('./src/assets/css/'));
+server.use(express.static('./src/assets/js/'));
+server.use(express.static('./src/assets/fonts/'));
+server.use(express.static('./src/assets/video/'));
+server.use(express.static('./src/assets/img/'));
 
 server.set('view engine', 'njk');
 
