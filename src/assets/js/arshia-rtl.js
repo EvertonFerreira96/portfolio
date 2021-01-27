@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------
-* Template Name    : Arshia | Responsive One Page HTML Template
+* Template Name    : atomic-space | Responsive One Page HTML Template
 * Author           : Retrina Group
 * Version          : 1.0.0
 * Created          : June 2020
@@ -51,13 +51,13 @@ function themeOption(){
     "use strict";
 
     $('.color-scheme li .dark-scheme').click(function() {
-        $("body").addClass('arshia-dark');
+        $("body").addClass('atomic-space-dark');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });
 
     $('.color-scheme li .light-scheme').click(function() {
-        $("body").removeClass('arshia-dark');
+        $("body").removeClass('atomic-space-dark');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });

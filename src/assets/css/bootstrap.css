@@ -153,22 +153,14 @@ sup {
 }
 
 a {
-  color: #FFF;
+  color: #007bff;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #0056b3;
   text-decoration: underline;
-}
-
-a.active{
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 a:not([href]):not([tabindex]) {

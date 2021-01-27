@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------
-* Template Name    : Arshia - Fully Responsive Personal Template
+* Template Name    : atomic-space - Fully Responsive Personal Template
 * Author           : Retrina Group
 * Version          : 1.0.0
 * Created          : June 2020
@@ -163,7 +163,7 @@ header .navbar-brand b,
 /*-------------------------
       Flat Demo
 -------------------------*/
-.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+.flat-demo .button-border, .atomic-space-dark.flat-demo .button-border {
   background-color: #FF645E;
 }
 
@@ -173,7 +173,7 @@ header .navbar-brand b,
   -webkit-text-fill-color: #FFF;
 }
 
-.arshia-dark .hero-social li a:hover {
+.atomic-space-dark .hero-social li a:hover {
   color: #f05852 !important;
 }
 
