@@ -2,6 +2,15 @@
          GENERAL
 -------------------------*/
 
+@keyframes level {
+  0% {
+    transform: translateY(0px);
+  }
+  100% {
+   transform: translateY(-5px);
+  }
+}
+
 @keyframes up {
   0% {
     transform: translateY(0px);
@@ -10,6 +19,17 @@
    transform: translateY(-15px);
   }
 }
+
+@keyframes loop {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(15px);
+  }
+}
+
+
 
 
 body {
@@ -1177,6 +1197,16 @@ canvas.particles-js-canvas-el {
   animation-delay: 100ms;
   animation-fill-mode: forwards;
 }
+
+.showMore{
+  animation-name: loop;
+  animation-duration: 1500ms;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0ms;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
 
 
 
