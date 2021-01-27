@@ -29,6 +29,8 @@ nunjucks.configure('src/views', {
 server.use(express.json());
 server.use(express.urlencoded({extended: true}));
 server.use(methodOverride('_method'));
+
+
 server.use(routes);
 
 
