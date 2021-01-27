@@ -14,24 +14,15 @@
 }
 
 .base-color {
-  color: #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ff645e !important;
 }
 
 .hero-social li a:hover, .blog-link a:hover {
-  color: #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #f05852 !important;
 }
 
 .bg-base-color {
-  background-color: #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-color: #ff645e !important;
 }
 
 .follow-label:before,
@@ -40,21 +31,11 @@
 .testimonial .testimonial-border,
 .blog-content:before,
 .blog .owl-dot.active span {
-  background: #EEE;
- }
-
-
-
- .testimonial .owl-dot span {
-  background-color: transparent !important;
-  border: 1px solid #FFF;
+  background: #ff645e;
 }
- .testimonial .owl-dot.active span {
-  background-color: #FFF !important;
 
-}
-.portfolio .portfolio-filter .list-inline-item{
-  color: #FFF;
+.testimonial .owl-dot.active span {
+  background: #ff645e !important;
 }
 
 .menu li a,
@@ -73,77 +54,51 @@ header .navbar-brand b,
 .blog-content button:hover,
 .comments .comment-info a:hover,
 .social a:hover {
-  color: #FFf;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
+  color: #ff645e;
 }
 
 .loader {
-  border-top: 4px solid #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  border-top: 4px solid #ff645e !important;
 }
 
 .timeline-icon {
-  border: 1px solid #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  border: 1px solid #ff645e;
+  background-color: #ff645e;
 }
 
 .portfolio .portfolio-item-content::before {
   background-color: rgba(255, 100, 94, 0.9);
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .menu-toggler span {
-  background-color: #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-color: #ff645e;
 }
 
 .timeline-item:before {
-  border: 2px solid #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  border: 2px solid #ff645e;
 }
 
 .timeline-item:before {
-  border: 1px solid #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  border: 1px solid #ff645e;
 }
 
 .header nav .nav-pills a.active {
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ff645e !important;
 }
 
 .header nav a:hover {
-  color: #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ff645e !important;
 }
 
 .testimonial .testimonial-item::before {
-  color: #FF645E;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ff645e;
 }
 
 /*-------------------------
       Flat Demo
 -------------------------*/
 .flat-demo .button-border, .arshia-dark.flat-demo .button-border {
-  background-color: #FF645E;
+  background-color: #ff645e;
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
@@ -154,12 +109,6 @@ header .navbar-brand b,
   color: #f05852 !important;
 }
 
-
-/*
-
-  font-size: 72px;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-*/
+.arshia-dark .header nav a:hover {
+  color: #f05852 !important;
+}
