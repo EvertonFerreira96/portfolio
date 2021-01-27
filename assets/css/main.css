@@ -548,8 +548,7 @@ a, button {
 }
 
 .social-box .social a {
- 
-  color:white;
+ color: #FFF;
   transition: color 1s ease-in-out, font-size 1s ease;
 }
 
@@ -559,6 +558,12 @@ a, button {
   font-size: 1.5rem;
 }
 
+.social-box .follow-label span{
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 17px;
+}
 
 .follow-label {
   padding-right: 5rem;
@@ -1396,7 +1401,7 @@ canvas.particles-js-canvas-el {
 }
 
 .skill-box .skillbar:not(:last-child) {
-  margin-bottom: 56px;
+  margin-bottom: 85px;
 }
 
 .skill-box .skillbar-title {
@@ -1404,7 +1409,7 @@ canvas.particles-js-canvas-el {
   top: -28px;
   left: -17px;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .skill-box .skillbar-title span {
@@ -1423,6 +1428,7 @@ canvas.particles-js-canvas-el {
   font-weight: 500;
   bottom: 16px;
   right: 0;
+  font-size: 16px;
 }
 
 /*-------------------------

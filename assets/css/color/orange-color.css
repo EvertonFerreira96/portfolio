@@ -40,14 +40,21 @@
 .testimonial .testimonial-border,
 .blog-content:before,
 .blog .owl-dot.active span {
-  background: #FFF;
+  background: #EEE;
  }
 
-.testimonial .owl-dot.active span {
-  background: #FF645E !important;
-  background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+
+ .testimonial .owl-dot span {
+  background-color: transparent !important;
+  border: 1px solid #FFF;
+}
+ .testimonial .owl-dot.active span {
+  background-color: #FFF !important;
+
+}
+.portfolio .portfolio-filter .list-inline-item{
+  color: #FFF;
 }
 
 .menu li a,
@@ -66,10 +73,8 @@ header .navbar-brand b,
 .blog-content button:hover,
 .comments .comment-info a:hover,
 .social a:hover {
-  color: #FF645E;
+  color: #FFf;
   background: -webkit-linear-gradient(#EE5690,#46489D);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .loader {
@@ -129,6 +134,9 @@ header .navbar-brand b,
 
 .testimonial .testimonial-item::before {
   color: #FF645E;
+  background: -webkit-linear-gradient(#EE5690,#46489D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /*-------------------------
