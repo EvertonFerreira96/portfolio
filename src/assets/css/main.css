@@ -1495,8 +1495,8 @@ canvas.particles-js-canvas-el {
   margin-bottom: 1rem;
 }
 
-.portfolio .portfolio-filter li a {
-  padding: 5px 15px;
+.portfolio .portfolio-filter .list-inline-item a{
+  padding: 10px 15px;
 }
 
 .portfolio .portfolio-item {
@@ -1592,6 +1592,11 @@ canvas.particles-js-canvas-el {
 .portfolio .portfolio-icon a:first-child:focus {
   outline: none !important;
 }
+
+.img-portfolio {
+  filter:brightness(0.8)
+}
+
 .visible_item {
   display: none;
 }
@@ -2478,7 +2483,7 @@ canvas.particles-js-canvas-el {
   background-color: #2c2d30;
 }
 
-.atomic-space-dark .box-border, .atomic-space-dark .box-hover-border, .atomic-space-dark .button-border, .atomic-space-dark .image-border {
+.atomic-space-dark .box-border, .atomic-space-dark .box-hover-border, .atomic-space-dark , .atomic-space-dark .image-border {
   background-color: #2c2d30;
   box-shadow: 3px 3px 3px #202125, -3px -3px 3px #3e3e3e;
 }
@@ -2554,7 +2559,7 @@ canvas.particles-js-canvas-el {
 }
 
 .atomic-space-dark .page-hero {
-  background-color: #2b2b2b;
+  background-color: #282A39 ;
 }
 
 @media (max-width: 1199px) {
@@ -2659,7 +2664,7 @@ canvas.particles-js-canvas-el {
   display: none;
 }
 
-.flat-demo .testimonial .owl-carousel .testimonial-image, .flat-demo .portfolio-filter .button-border {
+.flat-demo .testimonial .owl-carousel .testimonial-image {
   background-color: transparent;
 }
 
@@ -3027,7 +3032,7 @@ canvas.particles-js-canvas-el {
     background-color: #2c2d30;
   }
   
-  .box-border, .box-hover-border, .button-border, .image-border {
+  .box-border, .box-hover-border, .image-border {
     background-color: #2c2d30;
     box-shadow: 3px 3px 3px #202125, -3px -3px 3px #3e3e3e;
   }

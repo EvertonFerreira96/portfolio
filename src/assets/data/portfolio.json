@@ -1,0 +1,16 @@
+{
+  "portfolios": [
+    {
+      "id": 1,
+      "title": "LOSANGO FINANCIAMENTO - PORTAL DE RELACIONAMENTO PJ",
+      "breadcrumb": "",
+      "url": "",
+      "img": "portfolio-1.png",
+      "techs": ["HTML", "CSS", "ANGULAR.JS", "ASP.NET", "BOOTSTRAP"],
+      "developerAt": "Em andamento",
+      "developerTime": "5 anos",
+      "createdBy": "Everton Ferreira",
+      "description": "Portal de Relacionamento Pessoa Jurídica, possui por finalidade a entrada de registro informações e contato dos lojistas, e seu acompanhamento pelos gerentes e diretores do desenvolvimento financeiro. Prospecção de Lojistas, Premiação e Gestão de Funcionários. Constituem-se de 45 páginas com a possibilidade de 12 visões diferentes. "
+    }
+  ]
+}

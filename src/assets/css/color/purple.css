@@ -161,8 +161,8 @@ header .navbar-brand b,
 /*-------------------------
       Flat Demo
 -------------------------*/
-.flat-demo .button-border, .atomic-space-dark.flat-demo .button-border {
-  background-color: #FF645E;
+.flat-demo, .atomic-space-dark.flat-demo {
+  background-color: #46489D;
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {
@@ -172,7 +172,24 @@ header .navbar-brand b,
 }
 
 .atomic-space-dark .hero-social li a:hover {
-  color: #f05852 !important;
+  color: #46489D !important;
+}
+
+.list-inline-item a{
+  background-color: #46489D;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.list-inline-item .active,
+.list-inline-item a:active,
+.list-inline-item a:hover {
+  background-color: #EE5690;
+}
+
+
+.list-inline-item a {  
+  color: #FFF !important;
 }
 
 .social a:hover {
