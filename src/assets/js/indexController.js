@@ -53,7 +53,7 @@ function initLoad(data){
             const portfolioModalHyperlink = document.createElement('a');
             portfolioModalHyperlink.setAttribute(`type`,`button`);
             portfolioModalHyperlink.setAttribute(`target`,`_blank`);
-            portfolioModalHyperlink.setAttribute(`href`,`portfolio-single.html?${portfolio.id}`);
+            portfolioModalHyperlink.setAttribute(`href`,`portfolio-single.html?id=${portfolio.id}`);
               const iconPortfolioModalHyperlink = document.createElement('i');
               iconPortfolioModalHyperlink.className = `lni-link`;
               portfolioModalHyperlink.appendChild(iconPortfolioModalHyperlink);
