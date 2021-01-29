@@ -72,8 +72,8 @@ function initLoad(data){
         
         /* portfolio-description */
         const portfolioDescription = document.createElement('h5')
-        portfolioDescription.className = `mt-3 mb-0`;
-        portfolioDescription.innerHTML = '...'
+        portfolioDescription.className = `mt-3 mb-0 h6`;
+        portfolioDescription.innerHTML = portfolio.title;
         imgOverlayContent.appendChild(portfolioDescription);
 
   }
