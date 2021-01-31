@@ -72,12 +72,15 @@ body {
   }
 }
 
+.container-fluid{
+  margin-top: 50px;
+}
 
 .container-img {
   background-image: url('../img/background-setup.jpeg');
   background-repeat: no-repeat;
+  background-size: cover;
   filter: brightness(0.3);
-  background-attachment: fixed;
   min-height: 280px;
 }
 
@@ -1522,6 +1525,9 @@ canvas.particles-js-canvas-el {
 
 .portfolio .portfolio-filter .list-inline-item a{
   padding: 10px 15px;
+}
+.portfolio .portfolio-filter .list-inline-item {
+  margin: 30px 0;
 }
 
 .portfolio .portfolio-item {

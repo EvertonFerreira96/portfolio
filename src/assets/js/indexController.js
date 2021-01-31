@@ -10,8 +10,7 @@ function initLoad(data){
 
 
   for(portfolio of portfolios){
-    console.log(portfolio)
-
+   
    /* portfolio-item */
     const containerPortfolio = document.createElement('div');
     containerPortfolio.className = `col-lg-4 portfolio-item`;
