@@ -13,7 +13,7 @@ function initLoad(data){
    
    /* portfolio-item */
     const containerPortfolio = document.createElement('div');
-    containerPortfolio.className = `col-lg-4 portfolio-item`;
+    containerPortfolio.className = `col-lg-4 portfolio-item ${portfolio.techs.join(' ')}`;
     containerPortfolios.appendChild(containerPortfolio);
 
    /* image-border */
