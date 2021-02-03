@@ -48,6 +48,7 @@ body {
 
 .rm {
   margin: 0 !important;
+  padding: 0 !important;
 }
 
 @media  (max-width: 768px){
@@ -85,7 +86,6 @@ body {
   background-repeat: no-repeat;
   filter: brightness(0.3);
   min-height: 280px;
-  margin: 35px 0 0;
   background-size: cover;
 }
 
