@@ -143,6 +143,102 @@
       "developerTime": "3 semana",
       "createdBy": "Everton Ferreira",   
       "description": "RESTAURANTE ESPANHOL - GONZALES Y GARCIA. Site Lading Page, possui por finalidade a divulgação de cardápio e serviços prestados, galeria de imagem e contato "
-    }    
+    },  
+    {
+      "id": 13,
+      "title": "AMERICANAS 4.0 - MEGA HACKATHON",
+      "breadcrumb": "AMERICANAS 4.0",
+      "url": "",
+      "img": "portfolio-13.png",
+      "techs": ["HTML", "CSS", "JAVASPNET", "ANGULARJS" ],
+      "developerAt": "04/2020",
+      "developerTime": "1 semana",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://docs.google.com/presentation/d/1Ku0KQ_v3aOuTnP1ZuIH9TAxBJ3arHfvO38AKfsKYOzs/edit#slide=id.gd251bb473_0_600, PITCH - https://www.youtube.com/watch?v=qcwFhjqHKOg, GITHUB -https://github.com/Victor19Rodrigues/Hackathon"
+    },  
+    {
+      "id": 14,
+      "title": "DIBS - HACKATHON A PREV",
+      "breadcrumb": "DIBS",
+      "url": "",
+      "img": "portfolio-14.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "06/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/34ce6057-5468-4cac-8fc3-a0c90e14049f.pdf, PITCH - https://www.youtube.com/watch?v=iMdqDLskDZM, GITHUB - https://github.com/EvertonFerreira96/hackathon-shawee-hackAprev "
+    },     
+    {
+      "id": 15,
+      "title": "REI DA PISTA + CHAPA VIRTUAL - HACKATHON CCR",
+      "breadcrumb": "REI DA PISTA + CHAPA VIRTUAL",
+      "url": "",
+      "img": "portfolio-15.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "06/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/e9d2bb61-f944-4a8b-8eed-8e0b1f119c81.pdf, PITCH - https://www.youtube.com/watch?v=9q7EkvrvylQ, GITHUB - https://github.com/time57-CCR/rei-da-pista"
+    },   
+    {
+      "id": 16,
+      "title": "ÁRVORE DE LIVROS PARA TODOS - MEGA HACKATHON",
+      "breadcrumb": "ÁRVORE DE LIVROS PARA TODOS",
+      "url": "",
+      "img": "portfolio-16.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "06/2020",
+      "developerTime": "1 semana",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/6d1fcb9b-600e-4e73-8cdc-5cbc03151ba9.pdf, PITCH - https://www.youtube.com/watch?v=Pf-1g0i0rsY, DEMO - https://youtu.be/4AnRfshUjJs, GITHUB - https://github.com/EvertonFerreira96/hackathon-shawee-megaHack-03.git"
+    },
+    {
+      "id": 17,
+      "title": "CONSTRUTOR DE AULA - HACKATHON CAMPUS PARTY",
+      "breadcrumb": "CONSTRUTOR DE AULA: UMA PLATAFORMA COLABORATIVA EM CONTEÚDO DE AULAS E EXPERIÊNCIAS",
+      "url": "",
+      "img": "portfolio-17.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "07/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/331c1e3f-0d67-44c2-a9cb-1a2da5d1fbc6.pdf, PITCH - https://youtu.be/GAyrSnWJgKU, GITHUB - https://github.com/EvertonFerreira96/hackathon-shawee-campus-party-2020.git"
+    },
+    {
+      "id": 18,
+      "title": "APOLO - HACKATHON ZENVIA EXPERIENCE",
+      "breadcrumb": "APOLO",
+      "url": "",
+      "img": "portfolio-18.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "07/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/b5bd8b4e-0ddb-421e-b4dc-a3b9b89fa46f.pdf, PITCH - https://youtu.be/EqWGh9J7Tfo, DEMO - https://youtu.be/lmN8LtXXp60 GITHUB - https://github.com/EvertonFerreira96/hackathon-shawee-hack-a-rocket-zenvia"
+    },
+    {
+      "id": 19,
+      "title": "ORÁCULO CLIMÁTICO - HACKATHON CALL FOR CODE",
+      "breadcrumb": "ORÁCULO CLIMÁTICO",
+      "url": "",
+      "img": "portfolio-19.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "07/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/3fbec650-28b7-48fb-90be-2ec4f2b50360.pdf, PITCH - https://youtu.be/7XellAnCDvU, DEMO - https://youtu.be/1rcQ_U6p0Q0, GITHUB - https://github.com/EvertonFerreira96/hackathon-call-for-code.git"
+    },
+    {
+      "id": 20,
+      "title": "CREDORGANIZZE - HACKATHON TECBAN",
+      "breadcrumb": "CREDORGANIZZE",
+      "url": "",
+      "img": "portfolio-20.png",
+      "techs": ["HTML", "CSS", "REACT", "REACTNATIVE",  "NODE", "CHATBOT" ],
+      "developerAt": "07/2020",
+      "developerTime": "3 dias",
+      "createdBy": "Everton Ferreira",   
+      "description": "APRESENTAÇAO - https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/8f1a2774-0fdf-4332-bae6-1fcf03642926.pdf, PITCH - https://www.youtube.com/watch?v=sNpBBLN0Qsw, GITHUB - https://github.com/EvertonFerreira96/hackathon-tecban"
+    }
   ]
 }
