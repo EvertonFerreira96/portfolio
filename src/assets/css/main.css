@@ -46,6 +46,9 @@ body {
   height: 0;
 }
 
+.rm {
+  margin: 0;
+}
 
 @media  (max-width: 768px){
   .element{
