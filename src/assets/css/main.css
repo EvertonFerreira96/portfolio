@@ -83,6 +83,7 @@ body {
   background-image: url('../img/background-setup.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   filter: brightness(0.3);
   min-height: 280px;
 }
