@@ -81,11 +81,12 @@ body {
 
 .container-img {
   background-image: url('../img/background-setup.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
   background-attachment: fixed;
+  background-repeat: no-repeat;
   filter: brightness(0.3);
   min-height: 280px;
+  margin: 35px 0 0;
+  background-size: cover;
 }
 
 .blockquote{
