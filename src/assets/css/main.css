@@ -85,7 +85,8 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   filter: brightness(0.3);
-  min-height: 280px;
+  min-height: 330px;
+  margin-top: 30px !important;
   background-size: cover;
 }
 
